@@ -60,11 +60,6 @@ I'm a passionate **Full Stack Developer** specializing in building scalable web 
 **📂 GitHub:** [Backend Repo](https://github.com/satishveesam/siddusbank-backend) | [Frontend Repo](https://github.com/satishveesam/siddusbank-frontend)
 
 ---
-
-### 📊 GitHub Stats
-
-![Satish's GitHub stats](https://github-readme-stats.vercel.app/api?username=satishveesam&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satishveesam&layout=compact&theme=radical)
 
 ---
