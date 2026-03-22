@@ -70,8 +70,14 @@ I'm a passionate **Full Stack Developer** specializing in building scalable web 
 **📂 GitHub:** [Backend Repo](https://github.com/satishveesam/siddusbank-backend) | [Frontend Repo](https://github.com/satishveesam/siddusbank-frontend)
 
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satishveesam&layout=compact&theme=radical)
+## 🏆 Quantifiable Achievements
 
+- ✅ **Reduced API response time** from 500ms to 150ms (70% improvement)
+- ✅ **Optimized database queries** reducing execution time by 40%
+- ✅ **Implemented JWT authentication** securing 10+ enterprise applications
+- ✅ **Achieved 90% code coverage** using JUnit and Mockito
+- ✅ **Deployed applications** with 99.9% uptime on Railway/AWS
+- ✅ **Containerized applications** using Docker for seamless deployment
 ---
 
 ### 📫 Connect With Me
