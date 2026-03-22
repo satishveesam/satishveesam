@@ -19,6 +19,15 @@ I'm a passionate **Full Stack Developer** specializing in building scalable web 
 - ⚡ Fun fact: I love solving complex problems
 
 ---
+## 🔍 Skills Summary
+
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | Java 8/11/17, JavaScript ES6+, TypeScript, SQL, HTML5, CSS3 |
+| **Frameworks** | Spring Boot, Spring Security, Spring Data JPA, Hibernate, React.js, Redux |
+| **Databases** | MySQL, PostgreSQL, MongoDB, Oracle |
+| **Cloud & DevOps** | AWS (EC2, S3, RDS), Docker, Kubernetes, CI/CD, Git, GitHub Actions |
+| **Tools** | Maven, Gradle, JUnit, Mockito, Postman, Swagger, IntelliJ, VS Code |
 
 ### 🛠️ Tech Stack
 
