@@ -79,16 +79,6 @@ I'm a passionate **Full Stack Developer** specializing in building scalable web 
 - ✅ **Deployed applications** with 99.9% uptime on Railway/AWS
 - ✅ **Containerized applications** using Docker for seamless deployment
 ---
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=satishveesam&show_icons=true&count_private=true&include_all_commits=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satishveesam&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satishveesam&theme=radical" />
-</div>
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satishveesam)
