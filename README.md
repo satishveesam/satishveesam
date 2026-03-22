@@ -1,3 +1,4 @@
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-00C853?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satishveesam)
 # 👋 Hi, I'm Satish Veesam
 
 ## 🚀 Full Stack Developer | Java Spring Boot | React | Cloud Services
