@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Satish Veesam
 
-## 🚀 Full Stack Developer | Java Spring Boot | React | Banking Domain Expert
+## 🚀 Full Stack Developer | Java Spring Boot | React | Cloud Services
 
 [![GitHub followers](https://img.shields.io/github/followers/satishveesam?label=Follow&style=social)](https://github.com/satishveesam)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/satishveesam)
